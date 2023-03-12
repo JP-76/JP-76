@@ -4,8 +4,8 @@
 
 <br clear="both">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JP-76)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JP-76&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JP-76&show_icons=true&theme=transparent)
+
 
 ###
 
