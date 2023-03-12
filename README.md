@@ -40,15 +40,3 @@
 <img align="right" height="200" src="https://media.discordapp.net/attachments/596772341594193933/1084487285044686908/kirbeee.gif"  />
 
 ###
-
-<img align="right" height="200" src="https://media.discordapp.net/attachments/596772341594193933/1084487285044686908/kirbeee.gif"  />
-
-###
-
-<img align="right" height="200" src="https://media.discordapp.net/attachments/596772341594193933/1084487285044686908/kirbeee.gif"  />
-
-###
-
-<img align="right" height="200" src="https://media.discordapp.net/attachments/596772341594193933/1084487285044686908/kirbeee.gif"  />
-
-###
