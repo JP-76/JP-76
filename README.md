@@ -21,7 +21,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/joão-pedro-spinassé-viana-a62543239/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -29,6 +29,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.discordapp.net/attachments/596772341594193933/1084487285044686908/kirbeee.gif"  />
+<img align="right" height="200" src="https://media.discordapp.net/attachments/596772341594193933/1084487285044686908/kirbeee.gif"/>
 
 ###
