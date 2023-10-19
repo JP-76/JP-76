@@ -26,6 +26,7 @@ E outras coisas que eu achei que não faria sentido criar uma categoria só pra 
 * Figma
 * Paint.net
 * DaVinci Resolve
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JP-76&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-76&layout=compact&theme=transparent)
 
