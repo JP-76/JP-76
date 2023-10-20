@@ -13,15 +13,15 @@ Essas são algumas das linguagens de programação nas quais eu tenho familiarid
 * C
 * Java
 * Javascript
-* Lua _(Essa não conta tanto, faz muito tempo que mexi)_
+* Lua
 
 Eu também conheço algumas linguagens de marcação:
 * HTML
-* CSS _(To incluindo aqui só pra ficar junto com html)_
+* CSS
 * Markdown
 
 E outras coisas que eu achei que não faria sentido criar uma categoria só pra elas:
-* Postgresql _(Só essa de banco de dados por enquanto, mas talvez no futuro outras se juntem a ela...)_
+* Postgresql
 * Git/GitHub
 * Figma
 * Paint.net
