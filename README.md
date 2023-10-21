@@ -8,7 +8,7 @@ Aqui eu posto todo tipo de coisa, ~apesar de não ter uma constância muito boa~
 
 Aqui estão algumas listas das tecnologias que eu conheço.
 
-Essas são algumas das linguagens de programação nas quais eu tenho familiaridade:
+Essas são algumas das linguagens de programação nas quais eu tenho domínio:
 * Python
 * C
 * Java
