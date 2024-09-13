@@ -35,8 +35,6 @@ E outras coisas que eu achei que não faria sentido criar uma categoria só pra 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-spinass%C3%A9-viana-a62543239/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joao_spinasse)
-
 
 ## 🔁 Feedback
 
